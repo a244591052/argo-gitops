@@ -6,7 +6,7 @@
   },
   "spec": {
     "apiServer": "",
-    "namespace": "httpbin",
+    "namespace": "infra-jenkins-dev",
     "resourceDefaults": {},
     "expectVersions": {}
   }
